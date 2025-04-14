@@ -27,8 +27,8 @@ Welcome to my GitHub page! Here you'll find a variety of projects I've developed
 ---
 
 ## 📬 **How to get in touch:**
-- **LinkedIn:** [LinkedIn]([https://www.linkedin.com/in/ahmed12757](https://www.linkedin.com/in/ahmed-mohammed-775445224))
-- **Twitter:** [twitter]([https://twitter.com/Ahmed12757](https://twitter.com/ahmedmo34500149?t=lYqXtIRLf9UeDOawT-8wJA&s=09))
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ahmed-mohammed-775445224))
+- **Twitter:** [twitter](https://twitter.com/ahmedmo34500149?t=lYqXtIRLf9UeDOawT-8wJA&s=09)
 - **Email:** [email](mailto:ah8962083@gmail.com)
 
 ---
